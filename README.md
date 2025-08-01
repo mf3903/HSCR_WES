@@ -1,4 +1,4 @@
-**Codes and scripts for key steps in HSCR WES analysis**
+**General codes and scripts for key steps in HSCR WES analysis**
 
 **Sample selection**
 -	case: selectVariant_bysample.sh <br>
